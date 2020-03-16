@@ -1,4 +1,4 @@
-# COVID-19 Resources
+# COVID-19 Resources (CORONAVIRUS)
 
 Curated list of Coronavirus data & apps. This list will be updated regulary, feel free to contribute.
 
