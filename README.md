@@ -16,6 +16,7 @@ Curated list of Coronavirus data & apps. This list will be updated regulary, fee
 - [Coronavirus Dashboard](https://ncov2019.live/): Live coronavirus dashboard tracker. See data, maps, social media trends, and learn about prevention measures.
 - [2019 Wuhan Coronavirus data](https://github.com/globalcitizen/2019-wuhan-coronavirus-data/): This public repository archives data over time from various public sources on the web.
 - [Wolfram Resources For Novel Coronavirus COVID-19](https://community.wolfram.com/groups/-/m/t/1872608): The hub for Wolfram resources related to novel coronavirus COVID-19 ( a.k.a. 2019-nCoV ) from Wuhan, China.
+- [World-o-Meter](https://www.worldometers.info/coronavirus/)
 
 ## Apps & Tools
 - [Coronavirus Symptoms](https://www.coronavirus-signs-and-symptoms.com/): Check if you have the symptons for coronavirus or just a regular cold or flu.
